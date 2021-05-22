@@ -1,0 +1,12 @@
+GET http://localhost:3001/
+
+###
+
+POST http://localhost:3001/signin
+###
+
+POST http://localhost:3001/login
+Content-Type: application/xml
+Authorization: token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImVtYWlsIjoiZ2l0c0BtYWlsLmNvbSIsInBhc3N3b3JkIjoicGFzcyJ9LCJpYXQiOjE2MjE2MTMxMjJ9.8IweEsv2PGzY-qIgnSiPRN7zAtl8PqoW3S7q2fS_QTI
+
+###
